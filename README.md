@@ -1,2 +1,3 @@
-# super-recommendation-engine-kjfh
-AI-powered recommendation system for modern development workflows
+# Super Recommendation Engine Kjfh
+
+A AI-powered recommendation system for modern development workflows.
